@@ -39,3 +39,13 @@ a) The frontend is in React.js and available in `client` directory.
 b) Use `npm install` to install required packages.
 c) `npm run start` to start react application on Port 3000.
 d) Grant webcam permissions to the application in browser and switch to RSK Testnet (network id: 31) via MetMask to interact with the DApp.
+
+**Screenshots**
+
+![image](https://user-images.githubusercontent.com/60684968/201526934-b2e7c626-534a-4a94-b9e4-6bc09a99de99.png)
+![image](https://user-images.githubusercontent.com/60684968/201526952-57683477-0bf5-48d3-843f-47434f380de5.png)
+![image](https://user-images.githubusercontent.com/60684968/201526922-a5773837-0d39-4074-af89-94c2df3ce7ab.png)
+![image](https://user-images.githubusercontent.com/60684968/201526974-69f7120a-f22e-4bf7-b4ea-ac55d05ac408.png)
+![image](https://user-images.githubusercontent.com/60684968/201526901-a50671cb-739e-40d7-b66d-50fd5aba021e.png)
+ 
+
